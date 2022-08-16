@@ -8,6 +8,8 @@
     // pale, bale -> true
     // pale, bake -> false
 
+// Gayel Laakmann McDowell(Feb 4, 2021) Cracking the Coding Interview; p. 91; 1.5 - One Away
+
 
 
 const addOrDel1 = (lgStr, smStr, [smIdx,lgIdx]=[0,0]) =>{
