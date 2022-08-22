@@ -22,8 +22,7 @@ ll.insertLast(4);
 ll.insertLast(5);
 
 
-const returnKthToLast = (val, k, ans=[]) => {
-
+const returnKthToLast = (val, k, ans=[]) =>{
     while(val){
         if(val.data === k) {
             ans.push(val.data);
