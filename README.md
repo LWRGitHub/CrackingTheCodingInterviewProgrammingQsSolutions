@@ -6,3 +6,6 @@ Here you will find programming questions that I have solved form the book.
 ## Tech Used
 - JavaScript/Node
 - Go (Golang)
+- Java
+- Swift
+- Python 
