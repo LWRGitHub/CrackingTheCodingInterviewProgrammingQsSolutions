@@ -1,6 +1,7 @@
 /*
 
-    Get a better understanding of Linked List with Node.js via YouTube, Traversy Media (Jul 3, 2019) 3https://www.youtube.com/watch?v=ZBdE8DElQQU
+    Get a better understanding of Linked List with Node.js via YouTube:
+    Traversy Media (Jul 3, 2019) 3https://www.youtube.com/watch?v=ZBdE8DElQQU
 
 */
 
